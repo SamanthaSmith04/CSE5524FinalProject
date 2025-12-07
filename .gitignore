@@ -3,3 +3,9 @@ train/
 val/
 cotton-weed-env/
 *.jpg
+*.txt
+*.json
+*.lock
+*.parquet
+*.pkl
+*.ann

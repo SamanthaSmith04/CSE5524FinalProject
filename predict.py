@@ -26,7 +26,7 @@ from tlc_ultralytics import YOLO
 # ============================================================================
 
 # Model weights path (from training)
-MODEL_WEIGHTS = "runs/detect/yolov8n_baseline/weights/best.pt"
+MODEL_WEIGHTS = "runs/detect/yolov8n_baseline15/weights/best.pt"
 
 # Inference settings
 CONFIDENCE_THRESHOLD = 0  # Confidence threshold for detections
