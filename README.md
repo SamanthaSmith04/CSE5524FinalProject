@@ -2,6 +2,9 @@
 
 Accurate weed detection is a critical component of precision agriculture, enabling targeted intervention and reduced reliance on herbicides. In this project, we participate in the 3LC Cotton Weed Detection Challenge, which focuses on detecting and classifying three types of weeds: Carpetweed, Morning Glory, and Palmer Amaranth in cotton field images. The challenge simulates re-alistic agricultural conditions with imperfect labels and strict model size constraints. Our work benchmarks the YOLOv8n object detection model and emphasizes adata-centric AI workflow rather than increasing model complexity. Using the 3LC platform, we conduct iterative error analysis, dataset cleaning, and retraining through a train-fix-retrain loop. Our results show that improving annotation quality and correcting dataset inconsistencies can significantly enhance detection performance, demonstrating the importance of data quality in real-world computer vision systems.
 
+<img width="1500" height="500" alt="visual" src="https://github.com/user-attachments/assets/13963fcd-8eb7-4db2-a1b0-03a85b9e258e" />
+
+
 The datasets used for training and evaluation can be found [on the competiton data page](https://www.kaggle.com/competitions/the-3lc-cotton-weed-detection-challenge/data)
 
 # Connecting OSC to 3LC
